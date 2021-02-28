@@ -1,0 +1,23 @@
+{
+  "name": "peace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss" : "sass --watch ./scss/style.scss ./css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennonite/peace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennonite/peace/issues"
+  },
+  "homepage": "https://github.com/bennonite/peace#readme",
+  "dependencies": {
+    "sass": "^1.32.8"
+  }
+}

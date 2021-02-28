@@ -1,0 +1,24 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.header, .section-header {
+  font-weight: 900;
+  font-size: 5.625rem;
+  margin-bottom: 1rem;
+  letter-spacing: -2px;
+  line-height: 140%;
+}
+
+.section-header {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1rem;
+  line-height: 140%;
+  letter-spacing: 2%;
+  font-weight: 400;
+}
+
+/*# sourceMappingURL=style.css.map */
